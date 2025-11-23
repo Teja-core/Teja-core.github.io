@@ -1,6 +1,8 @@
 title: Teja's Firmware & Embedded Blog
 description: Embedded Systems | Firmware | STM32 | Automotive
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 
 url: "https://Teja-core.github.io"
 baseurl: ""
