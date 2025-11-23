@@ -1,0 +1,19 @@
+title: Teja's Firmware & Embedded Blog
+description: Embedded Systems | Firmware | STM32 | Automotive
+theme: minima
+
+url: "https://Teja-core.github.io"
+baseurl: ""
+
+author:
+  name: Teja Vayila
+  email: vayilateja789@gmail.com
+
+social_links:
+  github: Teja-core
+  linkedin: teja-vayila-9219a6243
+
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
