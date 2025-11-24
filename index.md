@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Teja Vayila
+layout: single
+title: About Me
+permalink: /about/
 author_profile: true
 ---
 
