@@ -14,3 +14,15 @@ author:
   bio: Embedded Firmware Engineer
   location: Mysore, India
   email: vayilateja789@gmail.com
+links:
+  - label: Email
+    icon: fas fa-envelope
+    url: mailto:vayilateja789@gmail.com
+
+  - label: LinkedIn
+    icon: fab fa-linkedin
+    url: https://www.linkedin.com/in/teja-vayila-9219a6243
+
+  - label: GitHub
+    icon: fab fa-github
+    url: https://github.com/Teja-core
