@@ -2,6 +2,7 @@
 layout: single
 title: About Me
 permalink: /about/
+author_profile: true
 ---
 
 Hi, I’m **Teja Vayila**, an Embedded Firmware Engineer passionate about low-level programming and smart product development.
