@@ -1,33 +1,16 @@
 title: Teja Vayila
-description: Embedded Firmware Engineer Portfolio
+description: Embedded Firmware Engineer
+
 url: "https://teja-core.github.io"
 baseurl: ""
 
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark"
-
+remote_theme: academicpages/academicpages.github.io
 plugins:
-  - jekyll-include-cache
   - jekyll-remote-theme
 
 author:
   name: Teja Vayila
-  avatar: /assets/images/Profile.jpg
-  bio: Embedded Firmware Engineer | STM32 | Bare-metal & RTOS
+  avatar: /assets/images/profile.jpg
+  bio: Embedded Firmware Engineer
   location: Mysore, India
   email: vayilateja789@gmail.com
-
-  links:
-    - label: GitHub
-      icon: fab fa-github
-      url: https://github.com/Teja-core
-    - label: LinkedIn
-      icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/teja-vayila-9219a6243
-
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - blog.md
-  - resume.md
