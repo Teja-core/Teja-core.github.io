@@ -1,21 +1,22 @@
-title: Teja's Firmware & Embedded Blog
-description: Embedded Systems | Firmware | STM32 | Automotive
 remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
+minimal_mistakes_skin: "dark"
 
-url: "https://Teja-core.github.io"
-baseurl: ""
+layout: single
 
 author:
   name: Teja Vayila
+  avatar: /assets/images/profile.jpg
+  bio: Junior Embedded Firmware Engineer
+  location: Mysore, India
   email: vayilateja789@gmail.com
 
-social_links:
-  github: Teja-core
-  linkedin: teja-vayila-9219a6243
-
-header_pages:
-  - about.md
-  - projects.md
-  - blog.md
+  links:
+    - label: Email
+      icon: fas fa-envelope
+      url: mailto:vayilateja789@gmail.com
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/Teja-core
+    - label: LinkedIn
+      icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/teja-vayila-9219a6243
